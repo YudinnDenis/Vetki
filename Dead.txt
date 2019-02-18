@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sfsdfLOVE and Dead, memory every
+=======
+LOVE and Dead, memory sdsdevery
+>>>>>>> master
